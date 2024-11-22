@@ -1,0 +1,1 @@
+Examples of using remote-sources within HashiCorp Sentinel: https://developer.hashicorp.com/sentinel/docs/configuration/remote-sources

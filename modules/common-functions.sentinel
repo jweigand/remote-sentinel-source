@@ -1,0 +1,8 @@
+func formatted_print() {
+    print(
+        "\t========================================================================\n",
+        "\t  This is a function that was sourced from the develop branch.\n",
+        "\t========================================================================\n",
+    )
+    return null
+}
