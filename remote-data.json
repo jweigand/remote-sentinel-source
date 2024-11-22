@@ -1,0 +1,21 @@
+{
+    "ids": [
+        "203982-478625-DEV",
+        "203982-478625-PROD",
+        "402671-256874-TEST"
+    ],
+    "map": {
+        "203982-478625-DEV": {
+            "name": "Dev",
+            "url": "http://dev.example.com"
+        },
+        "203982-478625-PROD": {
+            "name": "Prod",
+            "url": "http://prod.example.com"
+        },
+        "402671-256874-TEST": {
+            "name": "Test",
+            "url": "http://test.example.com"
+        }
+    }
+}
